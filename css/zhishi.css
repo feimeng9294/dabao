@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*zinavBox*/
+.zinavBox{background:#565656;overflow:hidden;}
+.zinav{width:1000px;margin:0 auto;}
+.zinav li{float:left;width:100px;height:52px;text-align:center;line-height:58px;}
+.zinav li a{color:#FFFFFF;font-size:14px;font-weight:bold;line-height:52px;}
+.zinav li:hover{background:#009944;}
+.currentA{background:#009944;}
+
+
+.banner{background:url(../images/pc100.jpg) top center; height:310px;margin-top:1px;}
+
+.contentBox{background:#f9f9f9;overflow:hidden;padding-bottom:68px;}
+.content{width:1000px;margin:0 auto;overflow:hidden;}
+.content h1{color:#009944;font-size:16px;line-height:64px;font-weight:bold;}
+.tuwen{width:100%;overflow:hidden;margin-bottom:20px;}
+.tuwen p{float:left;margin-right:20px;border:1px solid #cfcdcd;}
+.tuwen ul{float:left;width:820px;}
+.tuwen ul li a{color:#666666;line-height:24px;}
+.tuwen ul li .a-1{color:#0547a6;line-height:29px;font-size:14px;font-weight:bold;}
+.tuwen ul li .a-1:hover{text-decoration:underline; color:#009944;}
+.tuwen ul li a span{color:#009944;}
+/*yuema*/
+.content .yuema{float:right;margin-right:30px;margin-top:20px;}
+.content .yuema input{width:22px;height:22px;background:url(../images/bg_20.png) no-repeat top center;display:inline-block;border:none;margin:2px;}
+.content .yuema #bt{background:url(../images/bg_22.png);}
+

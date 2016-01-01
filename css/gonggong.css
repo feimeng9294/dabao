@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{margin:0;padding:0;font-size:12px;line-height:16px;}
+a{text-decoration:none;color:#666666;}
+img{border:none;}
+h1{font-weight:normal;}
+li{list-style:none;}
+/*navBox*/
+.navBox{background:url(../images/pc1_02.png);width:100%;height:79px;}
+.nav{margin:0 auto;width:1000px;}
+.nav .logo{float:left;line-height:79px;margin-top:20px;}
+.nav>ul{margin-left:40px; float:left;}
+.nav>ul>li{width:100px;text-align:center;background:url(../images/icon_02.gif) no-repeat left center;padding-left:2px;padding:30px 0px;color:#666666;cursor:pointer;position:relative; float:left;font-weight:bold;}
+.nav>ul>li:hover{background:#99cc00;color:#FFFFFF;border-bottom:none;}
+.nav>ul>li>ul{background:#99cc00;position:absolute;top:75px;border-top:none;display:none;}
+.nav>ul>li>ul li{width:100px;}
+.nav>ul>li:hover ul{display:block;}
+.nav>ul>li>ul li a{color:#666666;display:inline-block;width:100px; padding:8px 0px;}
+.nav>ul>li>ul li a:hover{color:#333333;font-weight:bold;background:#FFFF00;}
+
+
+.nav .text{float:right;margin-right:45px;margin-top:25px;}
+.text .tet{background:url(../images/serch.jpg) no-repeat;;width:132px;height:32px;border:none;padding-left:10px;line-height:32px;}
+.text .bt{width:30px;height:32px;border:none;background:url(../images/ser.jpg) no-repeat;margin-left:-3px;display:inline;}
+
+
+
+
+/*zinavBox*/
+.zinavBox{background:#565656;overflow:hidden;}
+.zinav{width:1000px;margin:0 auto;}
+.zinav li{float:left;width:100px;height:52px;text-align:center;line-height:52px;}
+.zinav li a{color:#FFFFFF;font-size:14px;font-weight:bold;line-height:52px;}
+.currentA{background:#009944;}
+
+
+/*bottomBox*/
+.bottomBox{background:#efefef;padding:20px 0px 40px 0px;}
+.bottom{width:1000px;margin:0 auto;overflow:hidden;}
+.bottom .left{float:left;}
+.bottom p{float:right;}
+.bottom .left li a{line-height:27px;color:#666666;}
+.bottom p{padding-right:35px;background:url(../images/icon_20.png) no-repeat right center;margin-top:20px;color:#666666;font-weight:bold;}
+/*fudong*/
+.fudong{z-index:1000px;right:20px;position:fixed;top:40%;}
+.fudong a img{margin-top:3px;}

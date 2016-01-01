@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*zinavBox*/
+.zinavBox{background:#565656;overflow:hidden;}
+.zinav{width:1000px;margin:0 auto;}
+.zinav li{float:left;width:100px;height:52px;text-align:center;line-height:58px;}
+.zinav li a{color:#FFFFFF;font-size:14px;font-weight:bold;line-height:52px;}
+.zinav li:hover{background:#009944;}
+.currentA{background:#009944;}
+
+
+.banner{background:url(../images/pc100.jpg) top center; height:310px;margin-top:1px;}
+
+.contentBox{background:#f9f9f9;overflow:hidden;padding-bottom:68px;}
+.content{width:1000px;margin:0 auto;overflow:hidden;}
+.content h1{color:#009944;font-size:16px;line-height:64px;font-weight:bold;}
+.content h2{color:#084eb1;font-size:14px;width:100%;text-align:center;line-height:27px;margin-bottom:20px;}
+.content h2 span{color:#666666;font-size:12px;font-weight:normal;}
+.content p{color:#666666;line-height:24px;margin-top:20px;}
+.content .p-2{width:100%;text-align:center;}
+.content p span{color:#333333;}
+.content a p:hover{color:#009944;text-decoration:underline;}
+

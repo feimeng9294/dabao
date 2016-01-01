@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+.banner{background:url(../images/icon11.jpg) top center;height:310px;margin-top:1px;}
+/*zinavBox*/
+.zinavBox{background:#565656;overflow:hidden;}
+.zinav{width:1000px;margin:0 auto;}
+.zinav li{float:left;width:100px;height:52px;text-align:center;line-height:58px;}
+.zinav li a{color:#FFFFFF;font-size:14px;font-weight:bold;line-height:52px;}
+.zinav li:hover{background:#009944;}
+.currentA{background:#009944;}
+
+
+/*contentBox*/
+.contentBox{background:#f9f9f9;overflow:hidden;padding-bottom:68px;}
+.content{width:1000px;margin:0 auto;}
+.content h1{color:#009944;font-size:16px;line-height:64px;font-weight:bold;}
+.content .wen{margin-left:113px;color:#666666;}
+.content .wen h2{color:#175ab9;font-size:14px;font-weight:bold;margin:28px 0px;}
+.content .wen input{margin-bottom:10px;width:200px;}
+.content .wen textarea{width:200px;height:102px;}
+.content .wen .but-1{width:56px;line-height:24px; height:24px;margin-left:62px;margin-top:40px;}
+.content .wen .but-2{width:56px;line-height:24px; height:24px;}

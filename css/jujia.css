@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+/*zinavBox*/
+.zinavBox{background:#565656;overflow:hidden;}
+.zinav{width:1000px;margin:0 auto;}
+.zinav li{float:left;width:100px;height:52px;text-align:center;line-height:58px;}
+.zinav li a{color:#FFFFFF;font-size:14px;font-weight:bold;line-height:52px;}
+.zinav li:hover{background:#009944;}
+.currentA{background:#009944;}
+
+
+.banner{background:url(../images/pc80.jpg) top center; height:310px;margin-top:1px;}
+
+.contentBox{background:#f9f9f9;overflow:hidden;padding-bottom:68px;}
+.content{width:1000px;margin:0 auto;overflow:hidden;}
+.content h1{color:#009944;font-size:16px;line-height:64px;font-weight:bold;}
+.content .tupian{width:100%;overflow:hidden;}
+.content .tupian li{float:left;margin-right:4px;margin-top:5px;font-weight:bold;}
+.content .tupian a{ position: relative; display: block; overflow: hidden; cursor: pointer; }
+.content .tupian a .title { z-index: 2; position: absolute; bottom:0px; left: -500px; width:100%; height: 25px; padding: 0 0 0 0px; color: #f1e8eb; line-height: 25px;background:url(../images/bg11.png); font-size:12px;text-align:center;}

@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+.banner{background:url(../images/bj4.png) top center;height:310px;margin-top:1px;}
+/*zinavBox*/
+.zinavBox{background:#565656;overflow:hidden;}
+.zinav{width:1000px;margin:0 auto;}
+.zinav li{float:left;width:100px;height:52px;text-align:center;line-height:58px;}
+.zinav li:hover{background:#009944;}
+.zinav li a{color:#FFFFFF;font-size:14px;font-weight:bold;line-height:52px;}
+.currentA{background:#009944;}
+
+/*contentBox*/
+.contentBox{background:#f3f3f3;overflow:hidden;padding-bottom:48px;}
+.content{width:1000px;margin:0 auto;}
+.content h1{color:#009944;font-size:16px;line-height:64px;font-weight:bold;}
+.content p{margin-bottom:25px; float:left;}
+.content .tuwen{overflow:hidden;}
+.content p img{margin-right:25px;float:left;}
+.content ul{float:left;width:820px;}
+.content .li-1 a{color:#666666;font-size:14px;font-weight:bold;line-height:27px;}
+.content .li-1 a:hover{color:#014099;text-decoration:underline;}
+.content .li-1 span{float:right; color:#009944;font-weight:bold;}
+.content .li-2 a{color:#666666;line-height:24px;}
+.content .li-3 a{display:inline-block;padding:5px 10px;background:#eaeaea;margin-top:10px;color:#316fc6;}
+.content .li-3 a:hover{color:#009944;text-decoration:underline;
+
+
+
+

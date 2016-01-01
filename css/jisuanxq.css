@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*zinavBox*/
+.zinavBox{background:#565656;overflow:hidden;}
+.zinav{width:1000px;margin:0 auto;}
+.zinav li{float:left;width:100px;height:52px;text-align:center;line-height:58px;}
+.zinav li a{color:#FFFFFF;font-size:14px;font-weight:bold;line-height:52px;}
+.zinav li:hover{background:#009944;}
+.currentA{background:#009944;}
+
+
+.banner{background:url(../images/bj2.jpg) top center; height:310px;margin-top:1px;}
+
+.contentBox{background:#f9f9f9;overflow:hidden;padding-bottom:83px;}
+.content{width:1000px;margin:0 auto;overflow:hidden;}
+.content h1{color:#009944;font-size:16px;line-height:64px;font-weight:bold;}
+.content h2{color:#084eb1;font-size:36px;width:100%;text-align:center;line-height:83px;margin-bottom:10px;font-weight:bold;}
+.content h3{line-height:53px;color:#084eb1;font-size:24px;margin-bottom:20px;}
+.content strong{color:#084eb1;font-size:18px;line-height:47px;}
+.content input{line-height:47px;border:1px solid #dcdada; width:315px;margin-left:10px;margin:10px 0px;}
+.content span{font-size:18px;color:#666666;font-weight:bold;line-height:100px;}
+.content ul{background:#ffffff;overflow:hidden;width:100%;}
+.content ul li{float:left;margin:21px;text-align:center;}
+.content ul li img{margin-bottom:10px;}
+.content ul li a{color:#666666;}
+.content ul li a:hover{color:#009944;text-decoration:underline;}
+
+
+
+

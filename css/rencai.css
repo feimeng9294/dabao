@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.banner{background:url(../images/icon10.jpg) top center;height:310px;margin-top:1px;}
+/*zinavBox*/
+.zinavBox{background:#565656;overflow:hidden;}
+.zinav{width:1000px;margin:0 auto;}
+.zinav li{float:left;width:100px;height:52px;text-align:center;line-height:58px;}
+.zinav li a{color:#FFFFFF;font-size:14px;font-weight:bold;line-height:52px;}
+.zinav li:hover{background:#009944;}
+.currentA{background:#009944;}
+
+
+/*contentBox*/
+.contentBox{background:#f9f9f9;overflow:hidden;padding-bottom:68px;}
+.content{width:1000px;margin:0 auto;}
+.content h1{color:#009944;font-size:16px;line-height:64px;font-weight:bold;}
+.content .wenzi{margin-left:76px; margin-top:49px;}
+.content .wenzi ul{width:100%;overflow:hidden;border-bottom:1px dashed #cecdcd;}
+.content .wenzi ul li{float:left;line-height:37px;text-align:center;color:#666666;}
+.content .wenzi ul .li-1{width:163px;}
+.content .wenzi ul .li-2{width:296px;}
+.content .wenzi ul .li-3{width:255px;}
+.content .wenzi ul .li-4{width:137px;}
+.content .wenzi .content-ul{border-bottom:2px solid #d8d7d7;}
+.content .wenzi .content-ul li{font-weight:bold;}
+
+
+.content .yuema{float:right;margin-right:30px;margin-top:43px;}
+.content .yuema input{width:22px;height:22px;background:url(../images/bg_20.png) no-repeat top center;display:inline-block;border:none;margin:2px;}
+.content .yuema #bt{background:url(../images/bg_22.png);}
+

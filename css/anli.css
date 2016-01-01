@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+.banner{background:url(../images/pc40.jpg) top center;height:310px;margin-top:1px;}
+/*zinavBox*/
+.zinavBox{background:#565656;overflow:hidden;}
+.zinav{width:1000px;margin:0 auto;}
+.zinav li{float:left;width:100px;height:52px;text-align:center;line-height:58px;}
+.zinav li a{color:#FFFFFF;font-size:14px;font-weight:bold;line-height:52px;}
+.zinav li:hover{background:#009944;}
+.currentA{background:#009944;}
+
+
+
+/*contentBox*/
+.contentBox{background:#f3f3f3;overflow:hidden;padding-bottom:48px;}
+.content{width:1000px;margin:0 auto;}
+.content h1{color:#009944;font-size:16px;line-height:64px;font-weight:bold;}
+.content .ul-1{overflow:hidden;}
+.content .ul-1 li{width:110px;height:36px; background:url(../images/pc2.gif) no-repeat top center;float:left;margin-right:10px;line-height:36px;text-align:center;}
+.content .ul-1 li a{color:#666666;font-weight:bold;}
+.content .ul-1 .currentB{background:url(../images/pc1.gif);}
+.content .ul-1 .currentB a{color:#ffffff;}
+.content .ul-2{overflow:hidden;}
+.content .ul-2 li{width:230px;height:242px;float:left;background:#ffffff;margin:20px 10px;}
+.content .ul-2 li img{margin-bottom:10px;margin-top:5px;margin-left:5px;}
+.content .ul-2 li a{color:#666666;line-height:24px;}
+.content .ul-2 li span{margin-left:25px;color:#333333;}
+.content .yuema{float:right;margin-right:30px;margin-top:20px;}
+.content .yuema input{width:22px;height:22px;background:url(../images/bg_20.png) no-repeat top center;display:inline-block;border:none;margin:2px;}
+.content .yuema #bt{background:url(../images/bg_22.png);}
+
+
+
+
+
+

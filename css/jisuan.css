@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*zinavBox*/
+.zinavBox{background:#565656;overflow:hidden;}
+.zinav{width:1000px;margin:0 auto;}
+.zinav li{float:left;width:100px;height:52px;text-align:center;line-height:58px;}
+.zinav li a{color:#FFFFFF;font-size:14px;font-weight:bold;line-height:52px;}
+.zinav li:hover{background:#009944;}
+.currentA{background:#009944;}
+
+
+.banner{background:url(../images/bj2.jpg) top center; height:310px;margin-top:1px;}
+
+.contentBox{background:#f9f9f9;overflow:hidden;padding-bottom:245px;}
+.content{width:1000px;margin:0 auto;overflow:hidden;}
+.content h1{color:#009944;font-size:16px;line-height:64px;font-weight:bold;}
+.content h2{color:#084eb1;font-size:36px;width:100%;text-align:center;line-height:83px;margin-bottom:53px;font-weight:bold;}
+.content strong,.content span{color:#084eb1;font-size:18px;line-height:46px;height:46px;font-weight:bold;}
+.content .but-1{line-height:46px;height:46px;font-size:18px;font-weight:bold;color:#666666;border:1px solid #dbd9d9;border-right:none;padding-left:10px;margin-left:35px;}
+.content span{display:inline-block;width:110px;text-align:center;height:46px;line-height:46px;background:#ffffff;border:1px solid #dbd9d9;border-left:none;}
+.content .but-2{border:none;background:url(../images/icon2.jpg) no-repeat top center;width:93px;height:49px;line-height:49px;margin-left:-2px;color:#ffffff;font-size:16px;font-weight:bold;}
+.content p{color:#666666; line-height:24px;margin-left:260px;}
+
+
+
+
+
+

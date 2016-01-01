@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+/*zinavBox*/
+.zinavBox{background:#565656;overflow:hidden;}
+.zinav{width:1000px;margin:0 auto;}
+.zinav li{float:left;width:100px;height:52px;text-align:center;line-height:58px;}
+.zinav li a{color:#FFFFFF;font-size:14px;font-weight:bold;line-height:52px;}
+.zinav li:hover{background:#009944;}
+.currentA{background:#009944;}
+
+
+.banner{background:url(../images/bg3.gif) top center; height:310px;margin-top:1px;}
+
+.contentBox{background:#f9f9f9;overflow:hidden;padding-bottom:68px;}
+.content{width:1000px;margin:0 auto;}
+.content h1{color:#009944;font-size:16px;line-height:64px;font-weight:bold;}
+.content li{background:url(../images/pc2.gif) top center no-repeat;width:110px;height:36px;text-align:center;line-height:36px;float:left;margin-right:10px;margin-bottom:20px;}
+.content li a{color:#666666;font-weight:bold;}
+.content .current-li{background:url(../images/pc1.gif);}
+.content .current-li a{color:#ffffff;}
+.content #no1-p{text-align:center;width:1000px;}
+.content p{margin-top:23px;text-indent:2em;line-height:24px;}
